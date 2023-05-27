@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
   
 
 ### <div align="center"> I am jhon alexander a software developer👨‍💻 who is passionate about creating technology to uplift people and helping new developers find the right path🚀.</div>  
